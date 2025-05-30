@@ -9,7 +9,7 @@ This repository is a community list/collection of real-life examples that demons
 This is not a formal academic study. Instead, it’s a fun and informal project that gathers observations from everyday life where increasing input doesn't always mean increasing output.
 
 For example:
-> A student in engineering school might experience high energy and enthusiasm in the early years, but by the final year, the effort invested brings much less return — a light-hearted but clear case of diminishing returns.
+> A student in engineering school might experience high energy and enthusiasm in the early years, but by the final year, the effort invested brings much less return  a light-hearted but clear case of diminishing returns.
 
 ---
 
@@ -31,7 +31,7 @@ For example:
 
 ## Why It Matters
 
-The Law of Diminishing Returns is often discussed in textbooks, but it shows up everywhere — in education, work, creativity, exercise, and more. This project highlights how economic thinking can give us a better understanding of everyday choices and behaviors.
+The Law of Diminishing Returns is often discussed in textbooks, but it shows up everywhere  in education, work, creativity, exercise, and more. This project highlights how economic thinking can give us a better understanding of everyday choices and behaviors.
 
 ---
 
