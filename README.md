@@ -1,6 +1,6 @@
 # The Law of Diminishing Returns in Everyday Life
 
-This repository is a community list/collection of real-life examples that demonstrate the **Law of Diminishing Returns** ( a fundamental concept in microeconomics. It aims to show how this economic principle plays out in ordinary, relatable situations, often with humorous or surprising outcomes.
+This repository is a community list/collection of real-life examples that demonstrate the **Law of Diminishing Returns**  a fundamental concept in microeconomics. It aims to show how this economic principle plays out in ordinary, relatable situations, often with humorous or surprising outcomes.
 
 ---
 
